@@ -1,0 +1,14 @@
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.exe
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.deps.json
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.runtimeconfig.json
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.runtimeconfig.dev.json
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.dll
+C:\Users\SURFACE\source\repos\Music\Music\bin\Debug\netcoreapp3.1\Music.pdb
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.csproj.AssemblyReference.cache
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfoInputs.cache
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.AssemblyInfo.cs
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.dll
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.pdb
+C:\Users\SURFACE\source\repos\Music\Music\obj\Debug\netcoreapp3.1\Music.genruntimeconfig.cache
