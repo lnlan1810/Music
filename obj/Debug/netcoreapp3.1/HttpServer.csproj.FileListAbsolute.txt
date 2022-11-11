@@ -1,0 +1,42 @@
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.exe
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.deps.json
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.json
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.dev.json
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\HttpServer.pdb
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csprojAssemblyReference.cache
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfoInputs.cache
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfo.cs
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.dll
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.pdb
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.genruntimeconfig.cache
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sreut\RiderProjects\HttpServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sreut\RiderProjects\HttpServer\obj\Debug\netcoreapp3.1\HttpServer.csproj.CopyComplete
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.exe
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.deps.json
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.json
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.runtimeconfig.dev.json
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\HttpServer.pdb
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.csproj.AssemblyReference.cache
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfoInputs.cache
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.AssemblyInfo.cs
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.csproj.CoreCompileInputs.cache
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.csproj.CopyComplete
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.dll
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.pdb
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\obj\Debug\netcoreapp3.1\HttpServer.genruntimeconfig.cache
+D:\tin hoc nam 2, ky 1\oris_reutin_11-106-main\week6\bin\Debug\netcoreapp3.1\settings.json

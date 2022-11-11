@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/content.css">
+
+</head>
+<body>
+
+<header>
+
+    <div class="header-1">
+
+        <a href="#" class="logo"> MUSIC </a>
+
+        <form action="">
+            <input type="search" placeholder="search here" id="search">
+            <label for="search" class="fas fa-search"></label>
+        </form>
+
+    </div>
+
+    <div class="header-2">
+
+        <div id="menu" class="fas fa-bars" onclick="navToggle();"></div>
+
+        <nav class="navbar">
+            <ul>
+                <li><a onclick="navToggle();" href="/home.html">home</a></li>
+                <li><a onclick="navToggle();" href="/playlist.html">Play List</a></li>
+                <li><a onclick="navToggle();" href="/top.html">Top 100</a></li>
+                <li><a onclick="navToggle();" href="/about.html">about</a></li>
+            </ul>
+        </nav>
+
+        <div class="icons">
+            <a href="#" class="">My Profile</a>
+        </div>
+
+    </div>
+
+</header>
+
+<div class="content">
+
+    <div class="container-inner">
+
+        <section class="category">
+            <div class="category-text">
+                <h3 class="lg-text basic-color font-title"><i class="fas fa-guitar"></i>MUSIC</h3>
+                <p class="normal-text" id="inf">Featured New Releases</p>
+            </div>
+            <hr>
+
+            <div class="cardsGrid">
+
+                <div class="card">
+                    <div class="cardImg card1-img"></div>
+                    <div class="card-text">
+                        <div class="card-title">
+                            <h3 class="title-text font-title">Phoenix</h3>
+                        </div>
+                        <p class="card-cond md-text basic-color">Alpha Zulu</p>
+                        <p class="card-desc normal-text">Inspired by their late friend and 
+                            collaborator Philippe Zdar, 
+                            the band puts their melodies and 
+                            exuberance up front with winning results.</p>
+
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="cardImg card2-img"></div>
+                    <div class="card-text">
+                        <div class="card-title">
+                            <h3 class="title-text font-title">
+                                First Aid Kit</h3>
+                        </div>
+                        <p class="card-cond md-text basic-color">Palomino</p>
+                        <p class="card-desc normal-text">The Söderberg sisters' fifth studio
+                            LP is an uplifting one with 
+                            production modeled on the '80s 
+                            hits of acts like Fleetwood 
+                            Mac and Tom Petty.
+                        </p>
+
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="cardImg card3-img"></div>
+                    <div class="card-text">
+                        <div class="card-title">
+                            <h3 class="title-text font-title">The Lone Bellow</h3>
+                        </div>
+                        <p class="card-cond md-text basic-color">Love Songs for Losers</p>
+                        <p class="card-desc normal-text">Producing themselves for the first time, the trio deliver a wide range of musical expressions to match their resonant songwriting and singing.</p>
+                        
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="cardImg card4-img"></div>
+                    <div class="card-text">
+                        <div class="card-title">
+                            <h3 class="title-text font-title">Spoon</h3>
+                        </div>
+                        <p class="card-cond md-text basic-color">Lucifer on the Moon</p>
+                        <p class="card-desc normal-text">On-U Sound's Adrian Sherwood gives the band's rootsy Lucifer on the Sofa a dub reimagining that matches the original's creativity.</p>
+                    
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+<script>
+
+let menu = document.querySelector('#menu')
+let navbar = document.querySelector('.navbar');
+let header2 = document.querySelector('.header-2');
+
+function navToggle(){
+    menu.classList.toggle('fa-times');
+    navbar.classList.toggle('nav-toggle');
+}
+
+window.addEventListener('scroll',function(){
+
+    menu.classList.remove('fa-times');
+    navbar.classList.remove('nav-toggle');
+
+    if(window.scrollY > 60){
+        header2.classList.add('sticky');
+    }else{
+        header2.classList.remove('sticky');
+    }
+});
+
+</script>
+</body>
+</html>

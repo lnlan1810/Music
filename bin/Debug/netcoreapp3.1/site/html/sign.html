@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/sign.css" type="text/css">
+
+    <title>Sign in or Sign up</title>
+</head>
+<body>
+
+    <header>
+
+        <div class="header-1">
+    
+            <a href="#" class="logo"> MUSIC </a>
+    
+            <form action="">
+                <input type="search" placeholder="search here" id="search">
+                <label for="search" class="fas fa-search"></label>
+            </form>
+    
+        </div>
+    
+        <div class="header-2">
+    
+            <div id="menu" class="fas fa-bars" onclick="navToggle();"></div>
+    
+            <nav class="navbar">
+                <ul>
+                    <li><a onclick="navToggle();" href="/index.html">home</a></li>
+                    <li><a onclick="navToggle();" href="playlist.html">Play List</a></li>
+                    <li><a onclick="navToggle();" href="top.html">Top 100</a></li>
+                    <li><a onclick="navToggle();" href="about.html">about</a></li>
+                </ul>
+            </nav>
+    
+            <div class="icons">
+                <a href="html/sign.html" class="">Sign In</a>
+            </div>
+    
+        </div>
+    
+    </header>
+    <div  id="contentSign" class="content">   
+        <div class="container-inner">
+            <div class="login-wrap">
+                <div class="login-html">
+                    <div class="sitename">
+                        <h1>HELLO !</h1>
+                    </div>
+                    <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">SIGN IN</label>
+                    <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">SIGN UP</label>             
+                   
+                        <div class="login-form">
+                            <form class="log_form" method="POST" action="http://localhost:4040/accounts/id">
+                                <div class="sign-in-htm">
+                                    <div class="group">
+                                        <label for="user" class="label">USERNAME</label>
+                                        <input id="user" type="text" class="input" name="Login" required>
+                                    </div>
+                                    <div class="group">
+                                        <label for="pass" class="label">PASSWORD</label>
+                                        <input id="pass" type="text" class="input" name="Password" required>
+                                    </div>
+                                    <div class="group">
+                                        <input id="check" type="checkbox" class="check" checked>
+                                        <label for="check"><span class="icon"></span> Remember me</label>
+                                    </div>
+                                    <div class="group">
+                                        <button href="" class="button">Sign In</button>
+                                    </div>
+
+                                </div>
+                            </form>
+
+                            <div class="sign-up-htm">
+                                <div class="group">
+                                    <label for="user" class="label">USERNAME</label>
+                                    <input id="user" type="text" class="input" name="Login" required>
+                                </div>
+                                <div class="group">
+                                    <label for="pass" class="label">PASSWORD</label>
+                                    <input id="pass" type="password" class="input" data-type="password" name="Password" required>
+                                </div>
+                                <div class="group">
+                                    <label for="pass" class="label">REPEAT PASSWORD</label>
+                                    <input id="pass" type="password" class="input" data-type="password" name="Password" required>
+                                </div>
+                                <div class="group">
+                                    <label for="pass" class="label">EMAIL ADDRESS</label>
+                                    <input id="pass" type="text" class="input">
+                                </div>
+                                <div class="group">
+                                    <button href="" class="button">Sign Up</button>
+                                </div>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+            
+            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        
+         </div>
+    </div> 
+</body>
+</html>
